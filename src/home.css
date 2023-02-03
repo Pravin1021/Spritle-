@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contain{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: brown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header{
+    background-color:#1975ca;
+    height: 120vh;
+    text-align: center;
+}
+.headercredent button{
+    padding: 10px 20px;
+    background-color:rgb(226, 168, 43) !important;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+     border-radius: 4px;
+}
+p{
+    color: #fff;
+    font-size: 25px;
+}
+.button h3{
+    color: #fff;
+}
+.button button{
+    padding: 10px 20px;
+    background-color:rgb(226, 168, 43) !important;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.button h3{
+    margin: 2rem 0;
+}
